@@ -1,5 +1,6 @@
 # Final-Project--RT
 
+
 ##README FILE- Attacker
 
 This project analyzes network traffic from PCAP files and identifies the type of network activity based on packet size, inter-arrival time, and bitrate. The program categorizes traffic into types such as Video Streaming, Video Calls, Audio Streaming, and Internet Browsing.
@@ -15,7 +16,7 @@ To run this project, you'll need to install the following libraries:
 - pyshark library for packet capture analysis (Install with -pip install pyshark)
 - os library for file path (a built-in Python module)
 - numpy package for numerical calculations (Install with -pip install numpy)
--attach the PCAP recordinig to the project folder
+-must attach the PCAP recordinig to the project folder
 
 ## Output
 Output summarizing key statistics and type for each recording, 
@@ -54,7 +55,7 @@ To run this project, you'll need to install the following libraries:
 - os library for file path (a built-in Python module)
 - numpy package for numerical calculations (Install with -pip install numpy)
 - matplotlib library for graph generation (Install with -pip install matplotlib)
--attach the PCAP recordinig to the project folder
+-must attach the PCAP recordinig to the project folder
 
 ## Output
 The tool generates:
