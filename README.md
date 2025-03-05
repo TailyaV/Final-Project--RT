@@ -16,7 +16,7 @@ To run this project, you'll need to install the following libraries:
 - pyshark library for packet capture analysis (Install with -pip install pyshark)
 - os library for file path (a built-in Python module)
 - numpy package for numerical calculations (Install with -pip install numpy)
--must attach the PCAP recordinig to the project folder
+-must attach the PCAP recordinig to the project folder and wright the files name in "main" function where wrighten "file:".
 
 ## Output
 Output summarizing key statistics and type for each recording, 
@@ -55,7 +55,7 @@ To run this project, you'll need to install the following libraries:
 - os library for file path (a built-in Python module)
 - numpy package for numerical calculations (Install with -pip install numpy)
 - matplotlib library for graph generation (Install with -pip install matplotlib)
--must attach the PCAP recordinig to the project folder
+-must attach the PCAP recordinig to the project folder and wright the files name in "main" function where wrighten "file:"
 
 ## Output
 The tool generates:
